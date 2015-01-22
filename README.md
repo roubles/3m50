@@ -35,3 +35,4 @@ optional arguments:
                         Logging file
   -v, --verbose         Enable verbose debugs
   -y, --sync            Syncronize thermostat's time with client machine
+
